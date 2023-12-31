@@ -3,7 +3,7 @@ This is the documentation for <a href="https://github.com/reschultzed/retailreve
 
 <b>Uses</b>
 
-The primary purpose of this dataset is to allow users to create historical rankings of the largest retailers in the United States, as well as to track changes over time in the financial situation of individual companies. With over 19,000 data points representing over 600 distinct companies in all sectors of the retail industry, extending from 1902 through 2021, the opportunities for comparison are immense.
+The primary purpose of this dataset is to allow users to create historical rankings of the largest retailers in the United States, as well as to track changes over time in the financial situation of individual companies. With over 19,000 data points representing over 600 distinct companies in all sectors of the retail industry, extending from 1902 through 2022, the opportunities for comparison are immense.
 
 <b>Rules for inclusion</b>
 
